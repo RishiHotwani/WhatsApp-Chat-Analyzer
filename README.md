@@ -10,7 +10,7 @@ A web application to analyze your WhatsApp chat history. Visualize your chat sta
 This app is deployed on **Streamlit Community Cloud**.  
 Use the following URL to access it:
 
-[**Open WhatsApp Chat Analyzer**]:https://whatsapp-chat-analyzer-arkyj94or7duqmfsydscbq.streamlit.app
+[**Open WhatsApp Chat Analyzer**](https://whatsapp-chat-analyzer-arkyj94or7duqmfsydscbq.streamlit.app)
 
 > **Note:** Please use this Streamlit URL instead of any Vercel deployment links.
 
