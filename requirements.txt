@@ -1,6 +1,6 @@
 streamlit
 pandas
-emoji>=2.0.0
+emoji==1.6.3
 matplotlib
 seaborn
 urlextract
